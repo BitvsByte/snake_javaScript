@@ -1,5 +1,3 @@
-##Índice
-
 <h1 align="center"> javaScript Snake Game </h1>
 <p align="left">
    <img width="500" height="333" src="https://www.friv5online.com/files/images/1e/1e020d80dd3ea57aa7aa12e4569596e6.png">

@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## View a live version of this example
 
-* [URL Kanban project](https://fastidious-dusk-f79204.netlify.app/)
+* [Snake Game](https://bitvsbyte.github.io/snake_javaScript/)
 
 ## hiring 👍
 
